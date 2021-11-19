@@ -2,7 +2,6 @@ To run the project (you need MongoDB as well- `$ mongod`):
 
 ```
 $ npm install 
-$ npm run build
 $ nodemon server
 ```
 
